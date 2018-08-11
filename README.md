@@ -1,7 +1,7 @@
 # IntGaussMax
-This function fit gaussian on optical emission spectras and yields the emission line intensity
+This function fit gaussian on optical emission spectra and yields emission line intensities
 
-you need to provided it a list of the line you want to fit, if thoses lines are doublet or triplet and the spectra.
+you need to provided it a list of the emission line you want to fit, if thoses lines are doublet or triplet and the spectra.
 
 ex:<br />
 E = [750.39 751.47 866.79]<br />
