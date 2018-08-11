@@ -6,8 +6,15 @@ you need to provided it a list of the line you want to fit, if thoses lines are 
 ex:<br />
 E = [750.39 751.47 866.79]<br />
 Doublet = [1 1 0]<br />
-lambda = [] vector or wavelength (nm)<br />
-Int = [] vector of associated intensity at those wavelengths<br />
+lambda = [...] vector or wavelength (nm)<br />
+Int = [...] vector of associated intensity at those wavelengths<br />
+
+[I_exp,sig_I_exp,Fit] = IntensiteGaussMax_TRG(E,lambda,Int,Doublet,GraphAll=0,GraphExp = 0);
+
+I_exp is a vector of the intensity fitted <br />
+sig_I_exp is a vector of the uncerntainty on each fit <br />
+Fit is a vector of boul that give a value of 0 if the function was not able to fit a line
+
 
 GraphAll = 1 yield a figure of all the fit on each lines.
 
