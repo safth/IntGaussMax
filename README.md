@@ -2,6 +2,7 @@
 This function fit gaussian on optical emission spectras and yields the emission line intensity
 
 you need to provided it a list of the line you want to fit, if thoses lines are doublet or triplet and the spectra.
+
 ex:<br />
 E = [750.39 751.47 866.79]<br />
 Doublet = [1 1 0]<br />
