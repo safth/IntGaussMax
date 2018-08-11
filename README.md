@@ -14,3 +14,10 @@ GraphAll = 1 yield a figure of all the fit on each lines.
 <img width="551" alt="screen shot 2018-08-11 at 1 54 41 pm" src="https://user-images.githubusercontent.com/33142211/43994663-d7829a2e-9d6e-11e8-88c2-6243d283da4e.png">
 
 As we can see on the next figure, even small emission line are well fitted.
+
+<img width="545" alt="screen shot 2018-08-11 at 1 55 48 pm" src="https://user-images.githubusercontent.com/33142211/43994710-abe27212-9d6f-11e8-8635-ec72b9aa1c8a.png">
+
+
+The next figure gives an exemple of the variable GraphExp. if GraphExp=1, every fit is display on a figure. This give an exemple of a doublet where 2 gaussian are fitted
+
+<img width="536" alt="screen shot 2018-08-11 at 1 57 18 pm" src="https://user-images.githubusercontent.com/33142211/43994711-ae1c9d96-9d6f-11e8-9874-c8c07950e5aa.png">
