@@ -2,11 +2,11 @@
 This function fit gaussian on optical emission spectras and yields the emission line intensity
 
 you need to provided it a list of the line you want to fit, if thoses lines are doublet or triplet and the spectra.
-ex:
-E = [750.39 751.47 866.79]
-Doublet = [1 1 0]
-lambda = [] vector or wavelength (nm)
-Int = [] vector of associated intensity at those wavelengths
+ex:<br />
+E = [750.39 751.47 866.79]<br />
+Doublet = [1 1 0]<br />
+lambda = [] vector or wavelength (nm)<br />
+Int = [] vector of associated intensity at those wavelengths<br />
 
 GraphAll = 1 yield a figure of all the fit on each lines.
 
